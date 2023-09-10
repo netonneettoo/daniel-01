@@ -1,6 +1,6 @@
 ### Daniel
 
+- [x] Git
 - [ ] Tailwind css
-- [x] Configuração de variáveis de ambiente para abrir aplicações
-- [ ] xxx
+- [ ] Configuração de variáveis de ambiente para abrir aplicações
 - [ ] xxx
